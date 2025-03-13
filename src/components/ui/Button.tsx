@@ -1,5 +1,3 @@
-import { firago } from "@/styles/fonts/fonts";
-
 interface ButtonProps {
 	children: React.ReactNode;
 	onClick?: () => void;
