@@ -4,7 +4,7 @@ import Button from "@/components/ui/Button";
 
 export default function Header() {
 	return (
-		<header className="h-[100px] fixed top-0 left-0 right-0 z-50">
+		<header className="h-[100px] fixed top-0 left-0 right-0 z-50 bg-white mb-[100px]">
 			<div className="max-w-[1920px] h-full px-[120px] py-[31px]">
 				<div className="flex justify-between items-center h-full">
 					<div className="flex items-center gap-1 w-[210px] h-[38px]">
